@@ -16,10 +16,22 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1SGpWWo6KxRI2UpeY0tWIZmKgwN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\suman\Documents\GitHub\Big-Data-Programming-Spark\ICP1\src" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -32,7 +44,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.WordCount">
+  <component name="RunManager" selected="Application.SecondarySort">
     <configuration name="SecondarySort" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="SecondarySort" />
       <module name="ICP1" />
@@ -55,8 +67,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WordCount" />
         <item itemvalue="Application.SecondarySort" />
+        <item itemvalue="Application.WordCount" />
       </list>
     </recent_temporary>
   </component>
@@ -73,7 +85,7 @@
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="icp1 [file:/C:/Users/suman/Desktop/ICP1/]" />
+                <option name="name" value="icp1 [file:/C:/Users/suman/Documents/GitHub/Big-Data-Programming-Spark/ICP1/]" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
@@ -104,5 +116,16 @@
       <updated>1571199818679</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
